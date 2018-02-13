@@ -1,3 +1,4 @@
 # Organyze
-Android app for inventor
+# Android app for inventory management
+# First android app I made with some friends for CMSC 355 class
 
