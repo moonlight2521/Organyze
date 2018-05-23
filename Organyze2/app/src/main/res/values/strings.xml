@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Organyze</string>
+    <array name="Categories">
+        <item>Vegetable</item>
+        <item>Beverage and Drinks</item>
+        <item>Meat</item>
+        <item>Cleaning Supply</item>
+    </array>
+
+</resources>
